@@ -289,7 +289,7 @@ body.dark {
 
     li a {
       margin: 0.925rem;
-      background: white;
+      color: var(--second-color);
 
       &:hover {
         border: 1px solid var(--second-color);
